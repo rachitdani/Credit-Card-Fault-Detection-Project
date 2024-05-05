@@ -2,7 +2,7 @@
 
 This repository contains a machine learning project for predicting if the credit card holder will default the next month or not using the datasets 22 features features.
 
-<br>The Dataset detailed information is available on  : https://github.com/rachitdani/Credit-Card-Fault-Detection-Project/blob/113bbaab6abe2790af3c58ac339913dd0944c96d/notebooks/EDA%20%26%20Model%20Training.ipynb
+<a href = "https://www.kaggle.com/datasets/uciml/default-of-credit-card-clients-dataset">Dataset Used</a> 
 
 This project is a an example of Binary Classification Problem. We have used multiple Classification algorithms and the best algorithm is used for the prediction.
 
